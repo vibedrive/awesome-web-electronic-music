@@ -16,3 +16,9 @@ A curated list of groups, packages and resources related to electronic music in 
 ## Talks
 
 - [Is Web Audio Ready for the Dancefloor?](https://www.youtube.com/watch?v=rgPdhJRoWMM) - Given by [mmckegg](https://github.com/mmckegg) at te Web Audio Berlin Meetup
+
+## Protocols
+
+Interoperability!
+
+- [Open Music Initiative](http://open-music.org) - An open-source protocol for the uniform identification of music ights holders and creators
