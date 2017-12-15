@@ -4,11 +4,14 @@ A curated list of groups, packages and resources related to electronic music in 
 
 ## Orgs
 
+- [W3C Audio Working Group](https://github.com/webaudio)
 - [audio.js](https://github.com/audiojs) - Modular audio components/infrastructure in JavaScript
 - [Loop Drop](https://github.com/loopjs) - Looper, modular synth and sampler designed for improvisation and live performance
 - [hypermodules](https://github.com/hypermodules) - A github org to facilitate the development of hyperamp, a desktop music player built with web technologies
 - [live.js](https://github.com/livejs) - Collective of audio & visual artists
-
+- [Audiocogs](https://github.com/audiocogs) - JavaScript codecs, audio processing and other things
+- [Web syntH Audio Modules](https://github.com/wham-js/) - A collection of web audio synths and utilitites
+- [OpenMusic ](https://github.com/openmusic) - Modules and components for Web Audio
 
 ## Notes
 
