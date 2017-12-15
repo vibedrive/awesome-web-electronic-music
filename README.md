@@ -5,7 +5,9 @@ A curated list of groups, packages and resources related to electronic music in 
 ## Orgs
 
 - [audio.js](https://github.com/audiojs) - Modular audio components/infrastructure in JavaScript
+- [Loop Drop](https://github.com/loopjs) - Looper, modular synth and sampler designed for improvisation and live performance
 - [hypermodules](https://github.com/hypermodules) - A github org to facilitate the development of hyperamp, a desktop music player built with web technologies
+- [live.js](https://github.com/livejs) - Collective of audio & visual artists
 
 
 ## Notes
